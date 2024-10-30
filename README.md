@@ -23,3 +23,5 @@
 3) Run cd /dev/projects  
 3) Run python AccessUrl.py <url> <frames per second> for RTSP/RTMP stream  
 4) Run python TCPImageReceiver.py <ip address> <Port number> <frames per second> for TCP stream (IP address 0.0.0.0)
+
+Medium article - https://ritesh-4165.medium.com/drones-with-artificial-intelligence-will-soon-become-a-powerful-tool-a-new-perspective-86f5e7e6f888
